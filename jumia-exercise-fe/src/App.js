@@ -107,7 +107,7 @@ function App() {
           <select className='form-select my-4 bg-dark text-white col-lg-6' onChange={handleCountrySelect}>
             <option value={''}>Select Country</option>
             { countries.map((country, index) => (
-              <option key={index} value={country.countryPrefix}>{country.countryPrefix}</option>
+              <option key={index} value={country.countryPrefix}>{country.countryName}</option>
             ))}
           </select>
         </div>
