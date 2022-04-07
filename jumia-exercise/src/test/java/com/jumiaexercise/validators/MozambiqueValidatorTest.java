@@ -69,7 +69,7 @@ class MozambiqueValidatorTest {
         //given
         Customer customer = new Customer(
                 1,
-                "Kimani Kelvin",
+                "Anthony Keoro",
                 "(258) Z847651504",
                 null,
                 null,

@@ -72,7 +72,7 @@ class UgandaValidatorTest {
         //given
         Customer customer = new Customer(
                 1,
-                "Kimani Kelvin",
+                "Anthony Keoro",
                 "(256) 775069443",
                 null,
                 null,
