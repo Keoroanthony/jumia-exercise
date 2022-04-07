@@ -21,7 +21,7 @@ class CustomerDetailsServiceTest {
         Customer customer = new Customer(
                 1,
                 "anthony keoro",
-                "(212) 715503321",
+                "(212) 715503121",
                 null,
                 null,
                 null,
