@@ -1,0 +1,15 @@
+/home/anthony/jumia/jumia-exercise/src/main/java/com/jumiaexercise/country/CountryController.java
+/home/anthony/jumia/jumia-exercise/src/main/java/com/jumiaexercise/customer/CustomerDetailsService.java
+/home/anthony/jumia/jumia-exercise/src/main/java/com/jumiaexercise/customer/CustomerService.java
+/home/anthony/jumia/jumia-exercise/src/main/java/com/jumiaexercise/validators/EthiopiaValidator.java
+/home/anthony/jumia/jumia-exercise/src/main/java/com/jumiaexercise/customer/Customer.java
+/home/anthony/jumia/jumia-exercise/src/main/java/com/jumiaexercise/validators/MozambiqueValidator.java
+/home/anthony/jumia/jumia-exercise/src/main/java/com/jumiaexercise/validators/UgandaValidator.java
+/home/anthony/jumia/jumia-exercise/src/main/java/com/jumiaexercise/validators/CameroonValidator.java
+/home/anthony/jumia/jumia-exercise/src/main/java/com/jumiaexercise/customer/CustomerRepository.java
+/home/anthony/jumia/jumia-exercise/src/main/java/com/jumiaexercise/country/CountryService.java
+/home/anthony/jumia/jumia-exercise/src/main/java/com/jumiaexercise/JumiaExerciseApplication.java
+/home/anthony/jumia/jumia-exercise/src/main/java/com/jumiaexercise/dialect/SQLiteDialect.java
+/home/anthony/jumia/jumia-exercise/src/main/java/com/jumiaexercise/validators/MoroccoValidator.java
+/home/anthony/jumia/jumia-exercise/src/main/java/com/jumiaexercise/customer/CustomerController.java
+/home/anthony/jumia/jumia-exercise/src/main/java/com/jumiaexercise/country/Country.java
